@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hokkaido.classic.g.c",
+    "sha256_cert_fingerprints":
+    ["FA:78:40:B2:56:AD:CA:DF:9C:BF:3E:64:D5:85:7C:BE:39:26:20:9C:2A:60:32:0D:C9:20:9F:01:DB:E7:61:F9"]
+  }
+}]
